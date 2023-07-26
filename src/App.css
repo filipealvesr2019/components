@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin-top: 5rem;
 }
 
 .App-logo {
@@ -35,4 +36,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+input{
+  margin-top: 2rem;
+  width: 40rem;
+  height: 3rem;
+  border-radius:2rem;
+  border:1px solid #E3E3E3;
 }
