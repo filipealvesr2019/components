@@ -1,11 +1,11 @@
-import Meucomponente from './components/Meucomponente';
+
 import './App.css';
-import Conteudo from './components/paginaGoogle';
+import Pagina from './components/Pagina';
 
 function App() {
   return (
     <div className="App">
-      <Conteudo/>
+      <Pagina/>
     </div>
   );
 }

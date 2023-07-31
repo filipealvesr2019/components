@@ -47,3 +47,49 @@ input{
   border:1px solid #E3E3E3;
 }
 
+
+.input-container{
+  position: relative
+}
+
+.icone-esquerda{
+  position: absolute;
+  left:5px;
+  top: 83%;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+}
+
+.icone-direita{
+  position: absolute;
+  top: 83%;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+}
+
+.icone-esquerda{
+  left:-14.8rem;
+}
+
+.icone-direita:nth-child(5){
+  right: 4rem;
+}
+
+
+.icone-direita:nth-child(6){
+  right: 1.5rem;
+}
+
+
+.icones-input{
+ padding-left: 3rem;
+ padding-right: 5rem;
+ border: 1px solid #ccc;
+
+}
+
+
+
+
