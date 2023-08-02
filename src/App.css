@@ -91,5 +91,17 @@ input{
 }
 
 
+.Button button{
+  background-color: #F8F8F8;
+  color: #7B7B7B;
+  border: 0;
+  margin-top: 3%;
+  height: 2.5rem;
+  margin-left: 4rem;
+  align-items: center;
+  border-radius: 5px;
+  font-family: 'roboto';
+  font-size: 1rem;
+}
 
 
