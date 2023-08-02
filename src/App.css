@@ -91,17 +91,25 @@ input{
 }
 
 
-.Button button{
+.container{
+  display: flex;
+  justify-content: center;
+
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+.button{
+  margin: 1rem;
   background-color: #F8F8F8;
   color: #7B7B7B;
   border: 0;
   margin-top: 3%;
   height: 2.5rem;
-  margin-left: 4rem;
-  align-items: center;
   border-radius: 5px;
   font-family: 'roboto';
   font-size: 1rem;
+  width: 10rem;
 }
-
-

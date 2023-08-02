@@ -1,9 +1,9 @@
 
 function Button(){
     return (
-        <div className="Button">
-            <button>Pesquisa Google</button>
-            <button>Estou com sorte</button>
+        <div className="container">
+            <button className="button">Pesquisa Google</button>
+            <button className="button">Estou com sorte</button>
         </div>
     )
 }
