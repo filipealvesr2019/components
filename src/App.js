@@ -1,6 +1,7 @@
 
 import './App.css';
 import Button from './components/Button';
+import Escudo from './components/Escudo';
 import Pagina from './components/Pagina';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <Pagina/>
       <Button/>
+      <Escudo/>
     </div>
   );
 }

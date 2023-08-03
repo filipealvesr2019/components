@@ -114,3 +114,15 @@ input{
   font-size: 1rem;
   width: 10rem;
 }
+
+
+.container-escudo{
+  display: flex;
+  justify-content:center;
+  margin: 3vh;
+}
+
+.container-escudo p{
+  font-family: 'roboto';
+  color: #1A0DBD;
+}
