@@ -2,6 +2,7 @@
 import './App.css';
 import Button from './components/Button';
 import Escudo from './components/Escudo';
+import Footer from './components/Footer';
 import Header from './components/Header';
 import Pagina from './components/Pagina';
 
@@ -12,6 +13,7 @@ function App() {
       <Pagina/>
       <Button/>
       <Escudo/>
+      <Footer/>
     </div>
   );
 }

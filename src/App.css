@@ -147,3 +147,23 @@ input{
   margin-right: 1rem;
 
 }
+
+.container-footer{
+  background-color: #F2F2F2;
+  
+}
+
+.block{
+  display: flex;
+}
+
+.block p{
+  display: flex;
+  justify-content: left;
+  margin: 1rem;
+}
+
+.blockB{
+  display: flex;
+  flex-direction: row;
+}
