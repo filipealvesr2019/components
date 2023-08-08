@@ -170,3 +170,12 @@ input{
   display: flex;
   flex-direction: row;
 }
+
+.line{
+  width: 100%;
+  height: 1px;
+  content: "";
+  margin: 0 10px;
+  background-color: #DADCE0;
+
+}
