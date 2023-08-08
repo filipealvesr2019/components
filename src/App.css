@@ -136,6 +136,7 @@ input{
   margin-top: 1.7rem;
   font-family: 'roboto';
   color: #707070;
+  font-weight:500;
   font-size: 1rem;
 }
 
@@ -161,6 +162,8 @@ input{
   display: flex;
   justify-content: left;
   margin: 1rem;
+  font-family: 'roboto';
+  color: #707070;
 }
 
 .blockB{
